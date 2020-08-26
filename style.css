@@ -1,0 +1,220 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.full-div .half-1{
+    width: 100%;
+    height: 70px;
+    background: white;
+}
+.full-div .half-1 ul{
+    width: 30%;
+    margin: auto;
+}
+.full-div .half-1 ul li{
+    list-style: none;
+    float: left;
+}
+.full-div .half-1 ul li a{
+    text-decoration: none;
+    color: black;
+    padding: 26px 20px;
+    display: block;
+    transition: .5s ease;
+}
+.full-div .half-1 ul li a:hover{
+    background: rgb(43, 43, 197);
+    color: white;
+}
+.full-div .half-1 ul .active a{
+    background: rgb(43, 43, 197);
+    color: white;
+}
+.full-div .half-1 .blogin{
+    background: orangered;
+    color: white;
+    border: none;
+    height: 20px;
+    width: 43px;
+    margin-top: 26px;
+    margin-left: 25px;
+}
+input{
+    margin-left: 300px;
+}
+.full-div .half-2{
+    height: 600px;
+    width: 100%;
+    background-image: linear-gradient(rgba(4, 8, 4, 0.5),rgba(2, 0, 1, 0.5)), url(MOMIN.jpg);
+    background-size: ;
+    position: relative;
+}
+.full-div .half-2 .momin{
+    margin-left: 35%;
+    margin-top: 130px;
+    font-size: 60px;
+    color: aqua;
+    position: absolute;
+}
+.full-div .half-2 p{
+    font-size: 15px;
+    color: aqua;
+    left: 36%;
+    margin-top: 190px;
+    position: absolute;
+}
+.full-div .half-2 .aria{
+    height: 40px;
+    width: 150px;
+    background: orangered;
+    color: white;
+    left: 44%;
+    margin-top: 220px;
+    font-size: 15px;
+    position: absolute;
+    border: none;
+}
+.full-div .half-3{
+    height: 400px;
+    width: 100%;
+    background: white;
+}
+.full-div .half-3 .a{
+    background: white;
+    height: 320px;
+    width: 250px;
+    margin-left: 8%;
+    margin-top: 50px;
+    border-radius: 10px;
+    float: left;
+}
+.full-div .half-3 .a img{
+    height: 100px;
+    width: 120px;
+    margin-left: 73px;
+    margin-top: 10px;
+}
+.full-div .half-3 .a h2{
+    margin-left: 15%;
+    margin-top: 10px;
+}
+.full-div .half-3 .a p{
+    margin-left: 10%;
+}
+.full-div .half-3 .b{
+    background: white;
+    height: 320px;
+    width: 250px;
+    margin-left: 6%;
+    margin-top: 50px;
+    border-radius: 10px;
+    float: left;
+}
+.full-div .half-3 .b img{
+    height: 100px;
+    width: 120px;
+    margin-left: 73px;
+    margin-top: 10px;
+}
+.full-div .half-3 .b h2{
+    margin-left: 15%;
+    margin-top: 10px;
+}
+.full-div .half-3 .b p{
+    margin-left: 10%;
+}
+.full-div .half-3 .c{
+    background: white;
+    height: 320px;
+    width: 250px;
+    margin-left: 6%;
+    margin-top: 50px;
+    border-radius: 10px;
+    float: left;
+}
+.full-div .half-3 .c img{
+    height: 100px;
+    width: 120px;
+    margin-left: 73px;
+    margin-top: 10px;
+}
+.full-div .half-3 .c h2{
+    margin-left: 15%;
+    margin-top: 10px;
+}
+.full-div .half-3 .c p{
+    margin-left: 10%;
+}
+.full-div .half-3 .d{
+    background: white;
+    height: 320px;
+    width: 250px;
+    margin-left: 6%;
+    margin-top: 50px;
+    border-radius: 10px;
+    float: left;
+}
+.full-div .half-3 .d img{
+    height: 100px;
+    width: 120px;
+    margin-left: 73px;
+    margin-top: 10px;
+}
+.full-div .half-3 .d h2{
+    margin-left: 15%;
+    margin-top: 10px;
+}
+.full-div .half-3 .d p{
+    margin-left: 10%;
+}
+
+.full-div .half-4{
+    height: 500px;
+    width: 100%;
+    background-color: rgb(23, 20, 34);
+}
+.full-div .half-4 .caps .m{
+    height: 220px;
+    width: 330px;
+    background: gray;
+    margin-top: 20px;
+    margin-left: 10%;
+}
+.full-div .half-4 .caps .hi{
+    color: wheat;
+    margin-top: 10px;
+    margin-left: 180px;
+}
+.full-div .half-4 .look{
+    margin-left: 40%;
+    margin-top: -280px;
+}
+.full-div .half-4 .look .n{
+    height: 220px;
+    width: 330px;
+    background: gray;
+    margin-top: 20px;
+    margin-left: %;
+}
+.full-div .half-4 .look .hlw{
+    color: wheat;
+    margin-top: 10px;
+    margin-left: 0px;
+}
+.full-div .half-4 .shift{
+    margin-left: 70%;
+    margin-top: -280px;
+
+}
+.full-div .half-4 .shift .o{
+    height: 220px;
+    width: 330px;
+    background: gray;
+    margin-top: 20px;
+    margin-left: %;
+}
+.full-div .half-4 .shift .good{
+    color: wheat;
+    margin-top: 10px;
+    margin-left: px;
+}
